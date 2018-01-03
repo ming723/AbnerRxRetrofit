@@ -20,7 +20,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
 /**
- * Created by Administrator on 2018/1/2.
+ * Created by AbenrMing on 2018/1/2.
  * 获取字符串或者JavaBean类
  */
 

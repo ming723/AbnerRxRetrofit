@@ -12,7 +12,7 @@ import retrofit2.http.Url;
 import rx.Observable;
 
 /**
- * Created by Administrator on 2018/1/2.
+ * Created by AbenrMing on 2018/1/2.
  */
 
 public interface RetrofitService {

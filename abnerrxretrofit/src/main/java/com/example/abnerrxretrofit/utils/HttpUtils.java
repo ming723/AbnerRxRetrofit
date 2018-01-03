@@ -16,7 +16,7 @@ import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by Administrator on 2018/1/2.
+ * Created by AbenrMing on 2018/1/2.
  * 联网工具类
  * getRetrofit()方法参数map，是否携带头部，不为null则是携带，为null不携带
  */

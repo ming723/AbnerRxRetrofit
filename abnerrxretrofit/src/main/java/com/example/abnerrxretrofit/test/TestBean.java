@@ -6,7 +6,7 @@ import com.example.abnerrxretrofit.model.IModel;
 import java.util.List;
 
 /**
- * Created by Administrator on 2018/1/2.
+ * Created by AbenrMing on 2018/1/2.
  * 测试bean，只取title
  */
 

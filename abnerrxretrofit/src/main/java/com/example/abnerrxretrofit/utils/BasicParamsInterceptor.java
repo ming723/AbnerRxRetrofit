@@ -21,7 +21,7 @@ import okhttp3.Response;
 import okio.Buffer;
 
 /**
- * Created by Administrator on 2018/1/2.
+ * Created by AbenrMing on 2018/1/2.
  */
 
 public class BasicParamsInterceptor implements Interceptor{
